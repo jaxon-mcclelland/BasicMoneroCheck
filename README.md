@@ -1,2 +1,2 @@
 # BasicMoneroCheck
-Monero check via the Kraken api that outputs results to telegram
+Basic python script that uses the Kraken API and outputs results via telegram
