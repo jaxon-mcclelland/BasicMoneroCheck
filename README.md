@@ -3,6 +3,6 @@ Basic python script that uses the Kraken API to retrive the current Monero price
 
 ## Example Usage
 ```
-$ python3 BasicMoneroCheck.py
+$ python3 check.py
 
 ```
